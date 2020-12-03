@@ -1,0 +1,5 @@
+use the two sql to build the database.
+db
+username: root
+password: example
+then you can launch the webapp and start searching.
